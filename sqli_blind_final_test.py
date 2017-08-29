@@ -5,6 +5,8 @@ from urllib.request import Request, urlopen
 import time
 import re
 
+#making a comment
+
 letters = 'abcdefghijklmnopqrstuvwxyz0123456789_-.:;#()/\\$&\"!@? ´`+\''
 url = 'http://localhost/challenge/sql/5.php'  # Set destination URL here
 
